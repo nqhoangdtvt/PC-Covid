@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981874780596",
+    "project_id": "pccovidmini",
+    "storage_bucket": "pccovidmini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981874780596:android:4ae212af51e3d7e1902ae1",
+        "android_client_info": {
+          "package_name": "com.example.pccovidmini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981874780596-dohc1rof4bjtf7kv2ppisfnqhghfb3d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pccovidmini",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "981874780596-68n45hl45pebjf8fn4uphioorpvjb29r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGp-vtwOfXpVsfFXjW_nk2JXKD1giqxAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981874780596-68n45hl45pebjf8fn4uphioorpvjb29r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

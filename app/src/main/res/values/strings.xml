@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PC Covid Mini</string>
+    <!-- Strings related to login -->
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="national_id">National ID</string>
+    <string name="social_insurance">Social Insurance</string>
+    <string name="password">Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="continue_replace">Continue</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="opt_code">OTP Code</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_password_not_match">Password not match</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="login_success">Hi, {0}. You login with password is {1}</string>
+    <string name="todo">TODO</string>
+    <string name="nav_find_f0">Find F0</string>
+    <string name="nav_edit">Edit</string>
+    <string name="nav_qr_code">QR Code</string>
+    <string name="nav_log_out">Log Out</string>
+    <string name="nav_management">Manager</string>
+    <string name="nav_account">Account</string>
+    <string name="input_email">Enter your email</string>
+    <string name="resetPass">Reset Password</string>
+    <string name="numberOfVaccine">Number of vaccine</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
